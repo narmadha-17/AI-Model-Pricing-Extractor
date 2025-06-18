@@ -20,7 +20,7 @@ Perfect for developers, researchers, and businesses looking to evaluate and comp
 
 ---
 
-##Built With
+## Built With
 
 - **Python** – Core programming language  
 - **Gradio** – Web UI for interactive comparisons  
@@ -32,7 +32,7 @@ Perfect for developers, researchers, and businesses looking to evaluate and comp
 
 ---
 
-##Use Cases
+## Use Cases
 
 - Developers benchmarking API costs  
 - Researchers analyzing model pricing trends  
